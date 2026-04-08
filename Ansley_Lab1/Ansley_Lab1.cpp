@@ -9,8 +9,8 @@ int main()
     std::cout << "Hello from Ansley! This is my first Git commit!\n";
     cout << "Git makes collaboration easy" << endl;
     cout << "Changes made by [Andrei Filho]!" << endl;
-0    cout << "Lab 1 completed on 04/06!" << endl
-
+    cout << "Lab 1 completed on 04/06!" << endl;
+}
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
