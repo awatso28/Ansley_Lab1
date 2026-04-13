@@ -8,4 +8,4 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Ansley Watson
 - Andrei
-## Changes Made By Ansley: Added a feature greeting
+## Changes Made By Ansley: Added a feature greeting, added grade calculator
