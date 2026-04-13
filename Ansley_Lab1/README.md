@@ -6,6 +6,6 @@ This is a simple C++ console application created for Git Lab 1.
 - How to commit and push changes
 - How to collaborate using GitHub
 ## Team Members
-- Ansley Watson - Feature: student info display
+- Ansley Watson
 - Andrei
 ## Changes Made By Ansley: Added a feature greeting
