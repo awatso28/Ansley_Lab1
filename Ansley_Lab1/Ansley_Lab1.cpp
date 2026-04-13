@@ -6,11 +6,30 @@
 using namespace std;
 int main()
 {
-    std::cout << "Hello from student A! This is my first Git commit!\n";
-    cout << "Git makes collaboration easy" << endl;
-    cout << "Changes made by [Andrei Filho]!" << endl;
-    cout << "Lab 1 completed on 04/06!" << endl;
-    cout << "Feature by Ansley: Branching is awesome!" << endl;
+    //Feature by Ansley: grade calculator
+    int grade;
+    cout << "Enter your grade: ";
+    cin >> grade;
+    if (grade >= 90)
+    {
+        cout << "Your grade is an A" << endl;
+    }
+    else if (grade >= 80 && grade <= 89)
+    {
+        cout << "Your grade is a B" << endl;
+    }
+    else if (grade >= 70 && grade <= 79)
+    {
+        cout << "Your grade is a C" << endl;
+    }
+    else if (grade >= 60 && grade <= 69)
+    {
+        cout << "Your grade is a D" << endl;
+    }
+    else
+    {
+        cout << "Your grade is a F" << endl;
+    }
 } 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
